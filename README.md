@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚I'm currently studying Information Engineering<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Backend and Devops
+👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Backend and Devops
 
 
 ## 🌐 Socials:
